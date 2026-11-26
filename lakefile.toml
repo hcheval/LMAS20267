@@ -1,0 +1,7 @@
+name = "lmas20267"
+version = "0.1.0"
+defaultTargets = ["Lmas20267"]
+
+[[lean_lib]]
+name = "Lmas20267"
+globs = ["Lmas20267.+"]
